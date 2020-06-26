@@ -8,27 +8,25 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Suresiva                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: my dev blog  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Blog to record some of the stuffs that I can whenever I find time.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://sureshsivva.github.io/blog'
+url: 'https://suresiva.github.io/blog'
 
 author: Suresh Siva                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: sureshsivva             # change to your github username
+  username: suresiva             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
   name: your_full_name                  # it will shows as the copyright owner in Footer

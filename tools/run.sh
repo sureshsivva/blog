@@ -12,7 +12,7 @@
 
 set -eu
 
-WORK_DIR=$(dirname $(dirname $(realpath "$0")))
+WORK_DIR="`pwd`"
 
 CONTAINER=.container
 SYNC_TOOL=_scripts/sh/sync_monitor.sh

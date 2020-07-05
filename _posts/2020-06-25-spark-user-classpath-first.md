@@ -7,7 +7,7 @@ tags: [spark, pyspark, classpath, issues, library, spark-submit]
 math: true
 ---
 
-## Properties
+## **Properties**
 
 ```shell
 spark.driver.userClassPathFirst=true
@@ -21,9 +21,9 @@ This option helps us more when there is a conflict between the Spark's internal 
 >
 [Note: This approach is still in **experimental** phase and used in **cluster mode only** by the time of writing, use it wisely]
 
-## Demo
+## **Demo**
 
-## Environment
+## **Environment**
 
 - Spark : 2.2.0
 - Spark-Cosmosdb-Connector : 2.4.0_2.11-3.0.5
@@ -51,7 +51,7 @@ The error I was getting is,
 
 When tracing the root cause, it became obvious that the Spark cluster's `httpclient` is way older than the the `httpclient` version expected by the `azure-cosmos-connector`, hence this was blocking the execution.
 
-## Fix
+## **Fix**
 
 Using the `spark.{driver,executor}.userClassPathFirst` configurations on Spark command has helped fixing this issue.
 

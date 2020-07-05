@@ -5,7 +5,6 @@ date: 2020-07-03 08:00:00 +0800
 categories: [Azure, CLI]
 tags: [azure, azure-cli, cli, login, issues, az]
 math: true
-pin: yes
 ---
 
 ## **Issue**

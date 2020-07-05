@@ -5,7 +5,6 @@ date: 2020-06-25 08:00:00 +0800
 categories: [Spark, Setup]
 tags: [spark, pyspark, classpath, issues, library, spark-submit]
 math: true
-pin: yes
 ---
 
 ## Properties

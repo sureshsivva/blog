@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-Check my portfolio @ ()[https://suresiva.github.io]
+Check my portfolio @ [](https://suresiva.github.io)

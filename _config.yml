@@ -10,13 +10,13 @@
 
 title: Suresh Siva                          # the main title
 
-tagline: [https://suresiva.github.io/](https://suresiva.github.io/) # it will display as the sub-title
+tagline: random notes on my learnings  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   my quick notes on random tech stuffs, hope these help someone.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://suresiva.github.io/blog/'
+url: 'https://suresiva.github.io/'
 
 author: Suresh Siva                  # change to your full name
 

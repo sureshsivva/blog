@@ -5,6 +5,9 @@
 #  MIT Licensed
 
 -
+   icon: 'far fa-user'
+   url:  'https://suresiva.github.io'
+-
   type: github
   icon: 'fab fa-github-alt'
 -

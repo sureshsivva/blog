@@ -30,8 +30,8 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://suresiva.github.io
     - https://www.linkedin.com/in/suresh-siva-059877150/
-    - https://github.com/suresiva
     # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string

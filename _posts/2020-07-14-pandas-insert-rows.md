@@ -1,5 +1,5 @@
 ---
-title: pandas - insert rows
+title: Pandas - Insert Rows
 author: Suresh Siva
 date: 2020-07-14 08:00:00 +0800
 categories: [python, pandas]
@@ -98,7 +98,9 @@ df.head()
 
 
 
-### 1. Using loc
+
+
+## 1. Using loc
 
 
 ```python
@@ -183,7 +185,9 @@ df.head(10)
 
 
 
-### 2. Using append() with Dictionary
+
+
+## 2. Using append() with Dictionary
 
 
 ```python
@@ -291,7 +295,9 @@ df.head(10)
 
 
 
-### 3. Using append() with pandas Series
+
+
+## 3. Using append() with Series
 
 
 ```python
@@ -373,6 +379,8 @@ df.head(10)
   </tbody>
 </table>
 </div>
+
+
 
 
 
@@ -467,5 +475,3 @@ df.head(10)
   </tbody>
 </table>
 </div>
-
-

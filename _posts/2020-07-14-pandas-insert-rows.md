@@ -7,7 +7,7 @@ tags: [python, pandas]
 math: true
 ---
 
-# Inserting a row into pandas dataframe
+# <font color='red'>Inserting a row into pandas dataframe</font>
 
 
 ```python

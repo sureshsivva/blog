@@ -1,3 +1,12 @@
+---
+title: pandas inserting rows
+author: Suresh Siva
+date: 2020-07-14 08:00:00 +0800
+categories: [python]
+tags: [python, pandas]
+math: true
+---
+
 # Inserting a row into pandas dataframe
 
 
